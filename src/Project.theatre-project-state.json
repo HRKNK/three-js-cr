@@ -1,0 +1,33 @@
+{
+  "sheetsById": {
+    "Demo Sheet": {
+      "staticOverrides": {
+        "byObject": {
+          "Camera": {
+            "position": {
+              "x": 0,
+              "y": 1.5,
+              "z": 1
+            },
+            "far": 5,
+            "fov": 15,
+            "near": 0.1
+          },
+          "Light": {
+            "position": {
+              "x": -0.3718329548052299,
+              "y": 0.3098993673122178,
+              "z": -0.007210785357055716
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "2qW0pmhM3pftM4Ia",
+    "YxSQcOBvCqSBZx4q",
+    "WZ0eSYxuyRAkFECH"
+  ]
+}
